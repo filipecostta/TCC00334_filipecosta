@@ -1,0 +1,19 @@
+Questão 1:
+
+1) Não existe Oficina
+2) O Orçamento é do reparo
+3) Não existe ADM
+4) reparo implica em execução de serviços executados por mecânicos
+5) Queixa é atributo de reparo
+
+Nota: 3,0
+
+Questão 2:
+
+1)possui não é ternário
+2) faltou habilitaçnao do veterinário
+
+Nota: 3,0
+
+Nota final: 6,0
+
