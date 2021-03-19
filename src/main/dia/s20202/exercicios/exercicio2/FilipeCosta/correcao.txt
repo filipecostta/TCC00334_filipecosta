@@ -1,0 +1,5 @@
+
+1) Cliente reserva categoria
+2) Não existe Locadora
+3) Aluguel é relacionamento entre Cliente e Carro
+2) Reserva é relacionamento entre Cliente e Categoria
