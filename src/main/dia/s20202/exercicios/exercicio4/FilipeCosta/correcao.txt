@@ -1,0 +1,4 @@
+
+1) Quem avalia trabalhos são Professores
+2) É Edição e não Conferência
+3) Não existe Publicação
